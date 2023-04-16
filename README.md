@@ -4,8 +4,8 @@ This is a solution to the Expenses chart component challenge on Frontend Mentor.
 
 ## Links
 
-Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-using-sass-scss-3nTPXWyhd4
-Live Site URL: [https://clementbartholome.github.io/Expenses-Chart-Component/](https://clementbartholome.github.io/Product-preview-card/)
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-using-sass-scss-3nTPXWyhd4
+- Live Site URL: https://clementbartholome.github.io/Product-preview-card/
 
 ## The challenge
 
