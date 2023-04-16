@@ -1,0 +1,43 @@
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
+html {
+    font-size: 14px;
+}
+
+h2 {
+    font-family: "Fraunces";
+    line-height: 2.2rem;
+    font-size: 2.2rem;
+}
+
+button {
+    font-family: "Montserrat";
+}
+
+.new-price {
+    font-family: "Fraunces";
+    font-size: 2.2rem;
+    color: $dark-cyan;
+}
+
+aside {
+    font-family: "Montserrat";
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: $grayish-blue
+}
+
+p {
+    font-family: "Montserrat";
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: $grayish-blue
+}
+
+.base-price {
+    font-family: "Montserrat";
+    text-decoration: line-through;
+    color: $grayish-blue
+}

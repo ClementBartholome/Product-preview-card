@@ -1,0 +1,12 @@
+{
+  "name": "product-card",
+  "version": "1.0.0",
+  "description": "Frontend Mentor challenge",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./style.css --style compressed"
+    
+  },
+  "author": "Clément Bartholomé",
+  "license": "ISC"
+}
